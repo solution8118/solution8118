@@ -1,8 +1,8 @@
-# [Adewuyi Israel] - Data Analysis Portfolio
+# Adewuyi Israel Olusegun - Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio repository. This space showcases my data analytics projects, dashboards, and case studies, demonstrating my ability to transform raw data into actionable business insights.
 
-## About This Portfolio Template
+## About This Portfolio
 
 This portfolio highlights my practical experience and skills in:
 Data cleaning and preprocessing
@@ -29,7 +29,24 @@ This template is set up to showcase your best work. You can easily customize the
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+- **Data Visualization
+Power BI
+Excel Dashboards
+Pivot Charts
+
+- **Data Analysis
+SQL
+Excel
+Python (Pandas — Beginner)
+
+- **Data Modeling
+Power Query
+Data Cleaning & Transformation
+
+- **Tools & Technologies
+Microsoft Excel
+Power BI Service
+MySQL
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
