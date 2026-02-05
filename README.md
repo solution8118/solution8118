@@ -2,7 +2,7 @@
 
 Welcome to my Data Analysis Portfolio repository. This space showcases my data analytics projects, dashboards, and case studies, demonstrating my ability to transform raw data into actionable business insights.
 
-## About This Portfolio
+## About
 
 This portfolio highlights my practical experience and skills in:
 Data cleaning and preprocessing
