@@ -29,29 +29,24 @@ This template is set up to showcase your best work. You can easily customize the
 
 ## 🛠️ Skills
 
-- **Data Visualization
-Power BI
-Excel Dashboards
+- **Data Visualization**
+Power BI,
+Excel Dashboards,
 Pivot Charts
 
-- **Data Analysis
-SQL
-Excel
-Python (Pandas — Beginner)
+- **Data Analysis**
+SQL,
+Excel,
+Power BI
 
-- **Data Modeling
-Power Query
+- **Data Modeling**
+Power Query,
 Data Cleaning & Transformation
 
-- **Tools & Technologies
-Microsoft Excel
-Power BI Service
+- **Tools & Technologies**
+Microsoft Excel,
+Power BI Service,
 MySQL
-
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
 ## 💡 How to Use This Template
 
