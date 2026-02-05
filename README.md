@@ -1,14 +1,17 @@
-# [Your Name] - Data Analysis Portfolio
+# [Adewuyi Israel] - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to my Data Analysis Portfolio repository. This space showcases my data analytics projects, dashboards, and case studies, demonstrating my ability to transform raw data into actionable business insights.
 
 ## About This Portfolio Template
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+This portfolio highlights my practical experience and skills in:
+Data cleaning and preprocessing
+Data visualization & storytelling
+Business data analysis
+Dashboard development
+Turning complex datasets into decision-driving insights
+
+
 
 ## 🚀 Projects
 
