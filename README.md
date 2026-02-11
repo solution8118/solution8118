@@ -11,7 +11,7 @@ Business data analysis
 Dashboard development
 Turning complex datasets into decision-driving insights
 
-## 🛠️ Skills
+## Skills
 
 - **Data Visualization**
 Power BI,
