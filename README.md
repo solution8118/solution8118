@@ -5,29 +5,29 @@ Welcome to my Data Analysis Portfolio repository. This space showcases my data a
 ## About
 
 This portfolio highlights my practical experience and skills in:
-Data cleaning and preprocessing
-Data visualization & storytelling
-Business data analysis
-Dashboard development
-Turning complex datasets into decision-driving insights
+- Data cleaning and preprocessing
+- Data visualization & storytelling
+- Business data analysis
+- Dashboard development
+- Turning complex datasets into decision-driving insights
 
 ## Skills
 
-- **Data Visualization**
+- **Data Visualization:**
 Power BI,
 Excel Dashboards,
 Pivot Charts
 
-- **Data Analysis**
+- **Data Analysis:**
 SQL,
 Excel,
 Power BI
 
-- **Data Modeling**
+- **Data Modeling:**
 Power Query,
 Data Cleaning & Transformation
 
-- **Tools & Technologies**
+- **Tools & Technologies:**
 Microsoft Excel,
 Power BI Service,
 MySQL
