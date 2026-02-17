@@ -1,6 +1,6 @@
 # Adewuyi Israel Olusegun - Data Analysis Portfolio
 
-Welcome to my Data Analysis Portfolio repository. This space showcases my data analytics projects, dashboards, and case studies, demonstrating my ability to transform raw data into actionable business insights.
+Welcome to my Data Analysis Portfolio. This space showcases my data analytics projects, dashboards, and case studies, demonstrating my ability to transform raw data into actionable business insights.
 
 ## About
 
